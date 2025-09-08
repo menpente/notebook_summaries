@@ -1,14 +1,14 @@
-AI Agent ROI: Unlocking the Next Wave of Business Value (Briefing Document)
+# AI Agent ROI: Unlocking the Next Wave of Business Value (Briefing Document)
 Date: October 26, 2023
 
 Source: Excerpts from "roi of ai.pdf" - "The ROI of AI 2025: How agents are unlocking the next wave of AI-driven business value."
 
 Prepared For: Leadership Team
 
-I. Executive Summary
+*I. Executive Summary*
 The conversation around Artificial Intelligence has fundamentally shifted from theoretical adoption to demonstrating tangible business value. We are now in the "agentic era," where AI agents, combining the intelligence of advanced AI models with access to tools, can independently execute tasks and make decisions under human guidance. This report, based on a survey of 3,466 senior global enterprise leaders, highlights that companies quick to adopt AI agents are seeing significant returns on investment (ROI), justifying further investments and broader scaling strategies. Key findings indicate that 88% of agentic AI early adopters are now seeing a positive ROI on Gen AI, significantly outpacing overall market trends.
 
-II. Main Themes and Key Insights
+*II. Main Themes and Key Insights*
 A. The Agentic Shift: From Predictive to Independent Execution
 Evolution of AI: AI has progressed from predictive to generative, and now to the "agentic era." AI agents are defined as "systems that combine the intelligence of advanced AI models with access to tools, so they can take actions on your behalf and under your control."
 Independent Task Execution: Unlike previous AI iterations, agents can "independently execute tasks and make decisions—under human guidance and guardrails."
