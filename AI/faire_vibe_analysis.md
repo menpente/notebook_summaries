@@ -80,5 +80,39 @@ The overall shift to AI-enhanced analysis creates significant organizational ben
 *   **Democratization of Data:** Lowering the barrier to entry for data analysis allows non-analysts, including Product Managers (PMs), designers, and sales teams, to write SQL and conduct analysis, empowering them with necessary context.
 *   **Acceleration and Efficiency:** AI accelerates the workflow, saving time for both the analysts and the leaders who consume their work, ensuring that insights reach the business rapidly.
 
+## IV. Write Culture
+
+The sources indicate that Faire (FAIR) has a very specific and formalized **write culture**, heavily focused on documentation and synthesized communication, especially for high-level analysis.
+
+Key details regarding the writing culture at Faire:
+
+### Formal Structure and Pre-Read Culture
+
+*   Faire maintains a **"vertical doc culture"** and a **"pre-read culture"**.
+*   The organization emphasizes **writing a lot of documents** rather than creating many slides.
+*   The Chief Strategy Officer and other leaders on his team prioritize **synthesized writing**.
+*   The Strategy and Analytics team developed specific **guidance on how to write at Faire**.
+*   This guidance includes internal documents, such as the **"use answer for structure key principles doc"** and standard templates that define what documents should look like.
+*   Analysis only matters if it can be communicated clearly to convince people of the intended message. The ability to draft a synthesized document is crucial for leveling up the quality of work.
+
+### Role of AI in Writing and Documentation
+
+AI tools have been integrated into workflows specifically to accelerate the creation and editing of these required documents:
+
+*   **Accelerated Drafting:** The process of producing a summary report can be accelerated using AI tools like Cursor.
+*   **Contextual Reporting:** The Notion Model Context Protocol (MCP) is used to direct Cursor to create a document that captures findings in a structured way.
+*   **Rule Enforcement:** Analysts instruct AI agents (via prompts or cursor rules) to follow the specific internal writing rules and formats defined in their guidance documents when drafting reports. This ensures consistency, such as including specific metrics, confidence intervals, and color-coding in experiment write-ups.
+*   **Automation of Routine Tasks:** Custom agents are built to automate routine documentation, such as the write-up of A/B test results, which helps prevent the analytics team from becoming a bottleneck and allows engineers and Product Managers to handle more analysis.
+*   **Communication Delivery:** The AI can generate the Notion document and also spit out a more summarized version (e.g., a Slack message) for quick communication and approval.
+*   **Source of Truth:** Analysts can query the product codebase (using tools like Cursor connected to GitHub) as a source of truth for marketing materials (like newsletters) or analysis, rather than relying solely on specifications or documentation written by Product Managers.
+
+### Human Oversight and Quality
+
+While AI accelerates the process dramatically, human judgment remains essential for final communication quality:
+
+*   AI cannot yet "zero shot" (automatically generate in a single pass) an **executive-ready document**.
+*   The AI-generated draft usually requires the human analyst to conduct **three to four revisions** of editing and adding analysis before it is complete.
+*   LLMs are seen as valuable for checking the narrative structure, ensuring the story makes sense, and covering potential blind spots the analyst may have after deep analysis.
+
 ---
 *The Strategy and Analytics team at Faire is currently hiring roles that partner closely with PMs and go-to-market teams, focusing on strategic data-driven decisions.*
