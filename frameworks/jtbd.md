@@ -37,3 +37,54 @@ By focusing on what customers are trying to achieve, the JTBD framework ensures 
 [7](https://www.productplan.com/glossary/jobs-to-be-done-framework/)
 [8](https://builtin.com/articles/jobs-to-be-done-framework)
 [9](https://maven.com/customer-centric-solutions-llc/customer-jtbd-frameworks-and-methods)
+
+To do JTBD (Jobs-to-be-Done), follow a structured process aimed at uncovering the real tasks, outcomes, and motivations driving your customers’ choices and behaviors.[1][2][3][4]
+
+### Step-by-Step Guide
+
+#### 1. Identify Core Customer Jobs
+- Conduct interviews, surveys, or observations to determine what tasks your customers are “hiring” your product or service to accomplish.[2][4][1]
+- Focus less on demographics and more on behavior, context, motivations, and outcomes.[4][2]
+
+#### 2. Map the Customer Job Journey
+- Break each job into discrete steps with a job map, such as defining, locating inputs, preparing, confirming, executing, monitoring, modifying, and concluding.[5][3]
+- Look for pain points and opportunities during each step to understand where your solution can make the most impact.[3][2]
+
+#### 3. Capture Dimensions and Desired Outcomes
+- Analyze not just functional, but also emotional and social drivers behind customer actions.[6][2]
+- Write desired outcome statements (“minimize hassle,” “save time”) that express how customers measure success when completing a job.[6]
+
+#### 4. Prioritize and Group Jobs
+- Group similar jobs and rank them by importance, frequency, and level of frustration (pain points).[2][3]
+- Focus resources on the jobs your product can solve best, not trying to solve every possible job.[3]
+
+#### 5. Develop Solutions
+- Use JTBD insights to inform product development, marketing messaging, and overall strategy, ensuring every initiative aligns with customer jobs and desired outcomes.[1][2]
+- Consider solution-agnostic approaches; explore multiple ways to solve priority jobs, not just refining your current product.[6][2]
+
+### Practical Tips
+
+- Use cross-functional teams (PMs, designers, engineers, marketers) to analyze and act on JTBD findings.[7]
+- Apply JTBD at multiple levels: for product design, UX, marketing, and business strategy.[2][6]
+- Keep outcome statements and job maps as living documents, updating them as you gather further insights.[1][6]
+
+The JTBD framework is powerful for uncovering true customer needs and motivating teams to innovate, keeping them focused on outcomes rather than just features or market segments.[4][1][2]
+
+[1](https://www.hotjar.com/product-management-glossary/jobs-to-be-done/)
+[2](https://www.phoenixstrategy.group/blog/5-steps-to-jtbd-implementation)
+[3](https://userpilot.com/blog/jtbd-product-management/)
+[4](https://cpoclub.com/product-development/how-to-use-jobs-to-be-done-framework-a-guide-for-product-managers/)
+[5](https://digitalleadership.com/blog/jobs-to-be-done/)
+[6](https://arisegtm.com/blog/jobs-to-be-done-jtbd)
+[7](https://productschool.com/blog/product-fundamentals/jtbd-framework)
+[8](https://strategyn.com/jobs-to-be-done/)
+[9](https://www.usehubble.io/blog/jobs-to-be-done-framework)
+[10](https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bc)
+[11](https://www.thisisservicedesigndoing.com/methods/generating-jobs-to-be-done)
+[12](https://brianrhea.com/5-steps-to-start-with-jtbd-today/)
+[13](https://www.productboard.com/wp-content/uploads/2023/12/Jobs-to-be-Done-Product-Framework-Guide.pdf)
+[14](https://productschool.com/blog/product-fundamentals/using-the-jobs-to-be-done-framework-for-product-management)
+[15](https://www.lennysnewsletter.com/p/the-ultimate-guide-to-jtbd-bob-moesta)
+[16](https://www.userinterviews.com/ux-research-field-guide-chapter/jobs-to-be-done-jtbd-framework)
+[17](https://theproductspace.substack.com/p/jobs-to-be-done-framework-a-practical)
+[18](https://brianrhea.com/a-guide-to-jtbd-product-management/)
