@@ -1,5 +1,7 @@
 ## Briefing: Identifying Undervalued Stocks Using Investing Pro and AI
 
+https://youtu.be/P_w6z9npeCQ
+
 This briefing outlines the methodology and key technological tools utilized to identify potentially **undervalued stocks with enormous potential**. These are referred to as "positive wealth accidents"—companies that offer greater potential returns without requiring the assumption of greater risk.
 
 ### I. Investment Philosophy and Technology Reliance
