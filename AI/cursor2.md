@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=2aldTxnbNt0
+
 This briefing document outlines the key concepts, features, and comparative analysis of Cursor, drawing from the provided tutorial transcript excerpts.
 
 ***
