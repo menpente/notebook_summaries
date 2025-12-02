@@ -1,3 +1,6 @@
+https://youtu.be/GKyD_Id6gfs
+
+
 ## Briefing Document: The Magic of Product Sense
 
 Product sense, sometimes called product thinking, product intuition, or product judgment, is a crucial skill for product managers (PMs).
