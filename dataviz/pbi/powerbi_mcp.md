@@ -1,5 +1,7 @@
 # Guide: Automating Power BI Modeling with MCP Server and AI Agent
 
+https://www.youtube.com/watch?v=MtiPD0dptfc
+
 This guide outlines the process of using the **Model Context Protocol (MCP)** server and AI agents to automate tedious Power BI development tasks, such as bulk renaming, documentation, and error fixing.
 
 ## 1. Environment Setup
