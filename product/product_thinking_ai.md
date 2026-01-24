@@ -1,5 +1,6 @@
 # Briefing Document: Product Thinking in the Age of AI
 
+https://www.youtube.com/watch?v=2Iaagq49LN0
 ## Overview
 This briefing outlines the shifting landscape of product management as of **2025-2026**, focusing on the massive growth in the AI job market and the critical need for Product Managers (PMs) to evolve their **product thinking** and research workflows using AI tools.
 
