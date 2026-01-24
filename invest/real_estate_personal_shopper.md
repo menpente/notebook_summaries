@@ -1,5 +1,7 @@
 # Briefing Document: Real Estate Personal Shoppers (PSI)
 
+https://www.youtube.com/watch?v=2Iaagq49LN0
+
 ### **1. What is a Real Estate Personal Shopper (PSI)?**
 A Real Estate Personal Shopper (PSI) is an **expert advisor who accompanies a buyer throughout the entire process of purchasing a home**. Unlike traditional real estate agencies that may represent both the buyer and the seller—creating a clear conflict of interest—a PSI **works exclusively for the buyer**. Their primary objective is to secure the best property at the best possible price while serving as a strategic consultant, expert negotiator, and guide in every phase of the acquisition.
 
